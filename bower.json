@@ -1,0 +1,25 @@
+{
+  "name": "smaug",
+  "authors": [
+    "Mark Hsu <mark.g.hsu@gmail.com>"
+  ],
+  "description": "smaug website prototype",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "smaug",
+    "website"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
